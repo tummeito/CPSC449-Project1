@@ -13,7 +13,7 @@ Steps to setup application instruction, within the integrated terminal of the fi
 # Install the following dependencies
 3. pip install flask
 4. pip install flask_mysqldb
-5. pip intall flask_sqlalchemy
+5. pip install flask_sqlalchemy
 6. pip install pyjwt
 
 # Run the flask application
